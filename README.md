@@ -1,1 +1,3 @@
 # Rt-Live-Model-Delhi
+The basic code and libraries are the same as the model created by Kevin Systrom. For India, we have used state-wise testing data. Necessary changes have been made to suit Indian data in the library “data_us” from the Rt live model applied to the US testing data. The trial has been run on the data of the Delhi region starting from 9th April. 
+In particular, the GenerativeModel function requires time (approximately 5 hours per each region). We are seeking support in terms of access to a server so that the model may be applied seamlessly to all the regions and we may obtain realtime results.
